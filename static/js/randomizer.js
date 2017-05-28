@@ -2,8 +2,6 @@
   var a = document.getElementsById("quotes_json")
   var b = JSON.parse(a.text)
   var rand_index = Math.round
-
-
 </script>
 
 $( document.body ).ready(function() {
